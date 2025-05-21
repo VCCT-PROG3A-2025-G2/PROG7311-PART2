@@ -150,3 +150,24 @@ The interface provides a basic layout representing the future design of the full
 
 ---
 
+REFERENCES
+----------
+Industrial IT and Automation (2021). ASP.NET Core - Save Data to Database. [online] YouTube. Available at: https://www.youtube.com/watch?v=iKmUMgZj-cE [Accessed 14 May 2025].
+
+‌
+
+Skullomania (2015). How do I make changes to my local db in asp.net MVC 5. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/29633974/how-do-i-make-changes-to-my-local-db-in-asp-net-mvc-5.
+
+‌
+tdykstra (n.d.). Tutorial: Add sorting, filtering, and paging with the Entity Framework in an ASP.NET MVC application. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/sorting-filtering-and-paging-with-the-entity-framework-in-an-asp-net-mvc-application.
+
+‌
+Sameer Saini (2024). ASP.NET Core MVC CRUD Operations using .NET 8 and Entity Framework Core - MVC For Beginners Tutorial. [online] YouTube. Available at: https://www.youtube.com/watch?v=_uSw8sh7xKs.
+
+
+
+tutorialsEU (2024). ASP.NET 8 MVC Tutorial for Beginners - C# web development made easy. [online] YouTube. Available at: https://www.youtube.com/watch?v=xuFdrXqpPB0.
+
+‌
+
+Youtu.be. (2025). Available at: https://youtu.be/Z59qG7EOubg?si=Z8F9_r6OvEQ4fm_8 [Accessed 14 May 2025].
